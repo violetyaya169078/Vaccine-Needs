@@ -21,3 +21,6 @@ Up-to-date information from websites below :
 
 * <a href="https://covid19.who.int">WHO Covid-19 dashboard</a>
 * <a href="https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases">Interactive data</a>
+* <a href="https://ourworldindata.org/covid-vaccinations">Vaccine data</a>
+
+
