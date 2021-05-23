@@ -1,5 +1,5 @@
 # Exploring Covid-19 Vaccine Demanded Countries
-## by YU-CHIEH HSU
+**YU-CHIEH HSU**
 
 ## Overview
 
