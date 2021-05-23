@@ -1,4 +1,4 @@
-# Exploring Covid-19 Vaccine Demanded Countries (Jan, 2020~May, 2021)
+# Exploring Covid-19 Vaccine Demanded Countries
 ## by YU-CHIEH HSU
 
 ## Overview
@@ -12,3 +12,12 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pygal.
 ```bash
 pip install pygal_maps_world
 ```
+## General Info
+
+The project contains data from January 22, 2020 to May 21, 2021.
+
+## Resources
+Up-to-date information from websites below :
+
+* <a href="https://covid19.who.int">WHO Covid-19 dashboard</a>
+* <a href="https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases">Interactive data</a>
