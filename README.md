@@ -11,7 +11,7 @@
 
  _Abstract_:
 
-> _The disease COVID-19 has been ravaging worldwide since 2020. Under the circumstances when new variant virus came out, the pandemic of Covid-19 is still out of control in many places. According to the dashboard of WHO website, there have been 1.6 million confirmed cases, including 340 thousand deaths reported(May 2021). Meanwhile in India, over 300 thousand daily confirmed cases and the lack of medical resources is also a double whammy which will impact the world pandemic. The rise of the variant virus B.1.617 even caused problems that could be more dreadful to both Indian citizens and the small countries around the world._
+> _The disease COVID-19 has been ravaging worldwide since 2020. Under the circumstances when new variants came out, the pandemic of Covid-19 is still out of control in many places. According to the dashboard of WHO website, there have been 1.6 million confirmed cases, including 340 thousand deaths reported(May 2021). Meanwhile in India, over 300 thousand daily confirmed cases and the lack of medical resources is also a double whammy which will impact the world pandemic. The rise of the variant B.1.617 even caused problems that could be more dreadful to both Indian citizens and the small countries around the world._
 
 <a id='intro'></a>
 ## Introduction
