@@ -47,5 +47,6 @@ Up-to-date information from websites below :
 * <a href="https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases">Interactive data</a>
 * <a href="https://ourworldindata.org/covid-vaccinations">Vaccine data</a>
 * <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins CSSE</a>
+* <a href="https://www.worldometers.info/world-population/population-by-country/">Population</a>
 
 
