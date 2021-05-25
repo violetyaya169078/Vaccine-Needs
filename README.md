@@ -17,7 +17,7 @@
 <a id='intro'></a>
 ## Introduction
 
-As one of the major manufacturer of vaccination, the problem India is facing today is considered to be more deep than imagined. The counts of confirmed and death cases everyday striked a serious blow to the world economic. Issues such as 
+As one of the major manufacturer of vaccination, the problem India is facing today is considered to be deeper than imagined. The counts of confirmed and death cases everyday striked a serious blow to the world economic. Issues such as 
 * Running out of beds and oxygen.
 * Not enough spare COVID-19 vaccines from other countries.
 * New variant B.1.617.
