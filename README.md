@@ -1,4 +1,4 @@
-# Why is the Corona Virus in India a Global Problem
+# Why is Corona Virus in India a Global Problem
 **YU-CHIEH HSU** 
 ###### _May 2021_
 
