@@ -1,5 +1,6 @@
-# Why is the Virus Crisis in India a Global Problem
-**YU-CHIEH HSU** _May 2021_
+# Why is the Corona Virus in India a Global Problem
+**YU-CHIEH HSU** 
+###### _May 2021_
 
 ## Table of Contents
 <ul>
@@ -11,7 +12,7 @@
 
  _Abstract_:
 
-> _The disease COVID-19 has been ravaging worldwide since 2020. Under the circumstances when new variants came out, the pandemic of Covid-19 is still out of control in many places. According to the dashboard of WHO website, there have been 1.6 million confirmed cases, including 340 thousand deaths reported(May 2021). Meanwhile in India, over 300 thousand daily confirmed cases and the lack of medical resources is also a double whammy which will impact the world pandemic. The rise of the variant B.1.617 even caused problems that could be more dreadful to both Indian citizens and the small countries around the world._
+> _The disease COVID-19 has been ravaging worldwide since 2020. Under the circumstances when new variants came out, the pandemic of Covid-19 is still out of control in many places. According to the dashboard of WHO website, there have been 1.6 million confirmed cases, including 340 thousand deaths reported(May 2021). Meanwhile in India, over 300 thousand daily confirmed cases and the lack of medical resources is also a double whammy which will increase the world pandemic. The rise of the variant B.1.617 even caused problems that could be more dreadful to both Indian citizens and the small countries around the world._
 
 <a id='intro'></a>
 ## Introduction
@@ -23,7 +24,8 @@ As one of the major manufacturer of vaccination, the problem India is facing tod
 * Not enough COVAX vaccine for lower-income countries, even for Indian citizens themselves.
 * Lock down cost money from the central government.
 * Vaccination have to be free to balance the expense.
-* Global ecnomic and travel industries issues.
+* Global economic and travel industries issues.
+
 are the main causes that make the pandemic unstoppable. We know that this is not only a national crisis but one that connects the world, the introduce of vaccines is the only measure to put down the chaos. This project is not going to discuss the medical details, but some data to show the situation of India and the world.
 
 <a id='insta'></a>
